@@ -7,8 +7,8 @@
 
 ## About Me
 ##### Colombian Native, Grew up in United States
-##### Fluent in English and Spanish, Learning Portuguese, Italian, Korean
-##### Interests - Sports (Soccer, Golf, Tennis) ....
+##### Fluent in English and Spanish, Learning Portuguese, Italian, Korean . . . .
+##### Interests - Sports (Soccer, Golf, Tennis) - Music (. . . .) - Activites (. . . .) - . . . .
 
 ## This Repository
 ##### Originially Created for Assignments in Wake Early College of Information and Biotechnology class Python.
