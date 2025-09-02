@@ -1,10 +1,16 @@
 # Python.Projects
 
-### Contact Info
-Jose Melo
-jmmelo.edu@gmail.com
-Senior in Wake Early College of Information n Biotech.
+### Contact Information
+#### Jose Melo
+#### jmmelo.edu@gmail.com
+#### Senior Computer Programming Program at Wake Early College of Information and Biotechnology.
 
-### About this Repository
-Projects completed in Python that I did during High School.
+### About Me
+#### Dual Citizen - Colombia and United States
+#### Fluent in English and Spanish, Learning Portuguese, Italian, Korean
+#### Interests - Sports (Soccer, Golf, Tennis) ....
+
+### This Repository
+#### Originially Created for Assignments in Wake Early College of Information and Biotechnology class Python.
+#### Now Used for any project created in Python programming language
 
