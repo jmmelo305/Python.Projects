@@ -1,3 +1,5 @@
+# Might only work in Anaconda / Jupyter Notebook
+
 import turtle
 import random 
 import time
