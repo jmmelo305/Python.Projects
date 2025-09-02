@@ -12,7 +12,7 @@
 ##### Interests - Sports (Soccer, Golf, Tennis) - Music (. . . .) - Activites (. . . .) - . . . .
 
 ## This Repository
-##### Originially Created for Assignments in Wake Early College of Information and Biotechnology class Python.
+##### Originially Created for Assignments in Wake Early College of Information and Biotechnology Class Python.
 ##### Now Used for any project created in Python programming language
 
 ## Websties I Find Useful.
